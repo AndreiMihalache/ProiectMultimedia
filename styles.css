@@ -1,0 +1,24 @@
+.videoplayer {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 960px;
+  height: 540px;
+}
+
+.playlist {
+  margin-top: 30px;
+}
+
+.playBtn {
+  float: left;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.delBtn {
+  float: right;
+  height: 35px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
